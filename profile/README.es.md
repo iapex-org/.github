@@ -1,4 +1,3 @@
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iapex-org/.github/main/profile/banner-dark.svg">
@@ -17,6 +16,10 @@
   <a href="https://github.com/iapex-org/mobile-app"><img src="https://img.shields.io/badge/App_M%C3%B3vil-React_18_+_Ionic_8-4584FF?logo=ionic&logoColor=white" alt="App Móvil"></a>
   <a href="https://github.com/iapex-org/core-api"><img src="https://img.shields.io/badge/Core_API-Spring_Boot_3-6DB33F?logo=springboot&logoColor=white" alt="Core API"></a>
   <a href="https://virtual.cuautitlan.unam.mx/intar/wp-content/uploads/sites/19/2025/12/166-A-Hybrid-Artificial-Intelligent-System-for-Missing-JORGE-CHRISTIAN-SERRANO-PUERTOS.pdf"><img src="https://img.shields.io/badge/Paper-Research_Pdf-4285F4?logo=googlescholar" alt="Paper"></a>
+</p>
+
+<p align="center">
+  <a href="README.md">🇬🇧 English</a> · <a href="README.es.md">🇪🇸 Español</a>
 </p>
 
 ---
