@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-<h1 align="center">🆔 IAPEX — Ecosistema Híbrido de IA para Identificación de Pacientes</h1>
+<h1 align="center">🆔 IAPEX (Encuéntrame) — Inteligencia Artificial para la Localización de Pacientes Extraviados en Instituciones de Salud</h1>
 
 <p align="center">
   <em>Cerrando la brecha entre pacientes no identificados en hospitales y familias que los buscan</em>
