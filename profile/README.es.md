@@ -81,5 +81,5 @@ Seguimos un flujo de trabajo estricto basado en PRs. Revisa el `CONTRIBUTING.md`
 ---
 
 <p align="center">
-  <sub>Hecho con ❤️ por el equipo IAPEX · UNAM Cuautitlán · 2025</sub>
+  <sub>Hecho con ❤️ por el equipo IAPEX · 2025</sub>
 </p>
