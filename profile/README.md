@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-<h1 align="center">🆔 IAPEX — Hybrid AI Ecosystem for Patient Identification</h1>
+<h1 align="center">🆔 IAPEX (Encuéntrame) — Hybrid AI for Missing Patient Identification</h1>
 
 <p align="center">
   <em>Bridging the gap between unidentified hospital patients and searching families</em>
