@@ -81,5 +81,5 @@ We follow a strict PR-based workflow. Check each repository's `CONTRIBUTING.md` 
 ---
 
 <p align="center">
-  <sub>Built with ❤️ by the IAPEX team · UNAM Cuautitlán · 2025</sub>
+  <sub>Built with ❤️ by the IAPEX team · 2025</sub>
 </p>
