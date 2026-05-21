@@ -24,7 +24,7 @@
 
 ---
 
-## 🎯 El Desafío
+## 🎯 El desafío
 
 Los hospitales dependen de protocolos manuales y aislados para registrar pacientes no identificados, creando una desconexión crítica con las familias que buscan en morgues y salas de emergencia. IAPEX resuelve esto proporcionando un **ecosistema centrado en la privacidad** que conecta datos institucionales con consultas públicas a través de un núcleo de coincidencia biométrica segura, reduciendo el tiempo de identificación de **días a segundos**.
 
@@ -70,7 +70,7 @@ Los hospitales dependen de protocolos manuales y aislados para registrar pacient
 
 Artículo publicado: *"A Hybrid Artificial Intelligent System for the Identification of Missing Persons in Health Institutions"* — [Leer el artículo completo](https://virtual.cuautitlan.unam.mx/intar/wp-content/uploads/sites/19/2025/12/166-A-Hybrid-Artificial-Intelligent-System-for-Missing-JORGE-CHRISTIAN-SERRANO-PUERTOS.pdf)
 
-## 🛡 Privacidad y Seguridad
+## 🛡 Privacidad y seguridad
 
 - Autenticación JWT de extremo a extremo
 - Control de Acceso Basado en Roles (RBAC)
