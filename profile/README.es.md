@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iapex-org/.github/main/profile/banner-dark.svg">
-    <img alt="IAPEX" src="https://raw.githubusercontent.com/iapex-org/.github/main/profile/banner-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/54db19d4-184d-4aac-934a-0e136d8499dd">
+    <img alt="IAPEX" src="https://github.com/user-attachments/assets/54db19d4-184d-4aac-934a-0e136d8499dd" width="100%">
   </picture>
 </p>
 
