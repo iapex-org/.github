@@ -15,6 +15,7 @@
   <a href="https://github.com/iapex-org/web-app"><img src="https://img.shields.io/badge/Portal_Web-Angular_19-DD0031?logo=angular&logoColor=white" alt="Portal Web"></a>
   <a href="https://github.com/iapex-org/mobile-app"><img src="https://img.shields.io/badge/App_M%C3%B3vil-React_18_+_Ionic_8-4584FF?logo=ionic&logoColor=white" alt="App Móvil"></a>
   <a href="https://github.com/iapex-org/core-api"><img src="https://img.shields.io/badge/Core_API-Spring_Boot_3-6DB33F?logo=springboot&logoColor=white" alt="Core API"></a>
+  <a href="https://github.com/iapex-org/search-api"><img src="https://img.shields.io/badge/Search_API-FastAPI-009688?logo=fastapi&logoColor=white" alt="Search API"></a>
   <a href="https://virtual.cuautitlan.unam.mx/intar/wp-content/uploads/sites/19/2025/12/166-A-Hybrid-Artificial-Intelligent-System-for-Missing-JORGE-CHRISTIAN-SERRANO-PUERTOS.pdf"><img src="https://img.shields.io/badge/Paper-Research_Pdf-4285F4?logo=googlescholar" alt="Paper"></a>
 </p>
 
@@ -43,8 +44,8 @@ Los hospitales dependen de protocolos manuales y aislados para registrar pacient
      │                      │
      ▼                      ▼
 ┌──────────────┐  ┌──────────────────┐
-│  Portal Web  │  │  Motor de IA     │
-│  (Instit.)   │  │  (Neural Core)   │
+│  Portal Web  │  │  Search API      │
+│  (Instit.)   │  │  (Motor IA)      │
 │  Angular 19  │  │  FastAPI + dlib  │
 │  Bootstrap   │  │  scikit-learn    │
 └──────────────┘  └──────────────────┘
@@ -57,13 +58,13 @@ Los hospitales dependen de protocolos manuales y aislados para registrar pacient
 | [web-app](https://github.com/iapex-org/web-app) | Portal web institucional para personal médico | Angular 19, Bootstrap, TypeScript | ✅ Activo |
 | [mobile-app](https://github.com/iapex-org/mobile-app) | App móvil para búsqueda familiar | React 18, Ionic 8, Capacitor | ✅ Activo |
 | [core-api](https://github.com/iapex-org/core-api) | API REST: auth, pacientes, instituciones | Spring Boot 3, PostgreSQL, MongoDB | ✅ Activo |
-| [neural-core](https://github.com/iapex-org/neural-core) | Motor IA: búsqueda híbrida facial + textual | FastAPI, dlib, scikit-learn | 🚧 Próximamente |
+| [search-api](https://github.com/iapex-org/search-api) | Motor IA: búsqueda híbrida facial + textual | FastAPI, dlib, scikit-learn | ✅ Activo |
 
 ## 🧠 ¿Cómo funciona?
 
 1. **Hospitales** registran pacientes no identificados vía el **Portal Web** — capturando rasgos morfológicos, fotografías y datos médicos bajo RBAC estricto
 2. **Familias** buscan mediante la **App Móvil** — subiendo fotos y descripciones de sus seres queridos
-3. El **Neural Core** fusiona embeddings de FaceNet (distancia euclidiana) con filtros de texto (Levenshtein, Jaro-Winkler) para clasificar candidatos, reduciendo significativamente los falsos positivos
+3. La **Search API** fusiona embeddings faciales (distancia euclidiana) con filtros de texto (Levenshtein, Jaro-Winkler) para clasificar candidatos, reduciendo significativamente los falsos positivos
 4. Las coincidencias se muestran con puntajes de similitud — la privacidad del paciente se protege hasta que el personal institucional verifica
 
 ## 🔬 Investigación
